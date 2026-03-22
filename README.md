@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m Om Patel, a final-year Computer Science student (Diploma CSE ’26) with a strong interest in developing efficient and scalable applications.<br><br>💡 I enjoy tackling real-world technical challenges and turning ideas into practical solutions.<br>⚙️ Always learning new technologies and improving performance.
 
 
